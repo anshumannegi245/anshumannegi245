@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **javascript, cloud computing**
 
-- 👯 I’m looking to collaborate on **Hackathons**
+- 👯 I’m looking to collaborate on **Hackathons** **Ideathon**
 
 - 📝 I regularly read mangas on [mangazone](mangazone)
 
